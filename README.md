@@ -11,6 +11,7 @@ The EB-5 Immigrant Investor Program was created by Congress in 1990 to stimulate
 - [Track Record of EB-5 Investments](https://www.eb5visainvestors.com/eb5-track-record)
 
 ## Latest Insights
+- [What Happens If I File My EB-5 Application After September 30, 2026?](https://blog.eb5visainvestors.com/2025/09/07/eb5-september-2026-deadline-grandfathering/) – Breaks down the critical EB-5 grandfathering protections for EB-5 investors that file prior to September 30,2026.
 - [Form I-956K Explained: USCIS EB-5 Promoter Registration](https://blog.eb5visainvestors.com/2025/09/05/form-i-956k-uscis-eb5-promoter-registration/) – A complete guide for EB-5 promoters, covering requirements, process, and compliance implications.
 - [Investment Green Card vs H-1B and L-1 Visas: Which Path is Best?](https://blog.eb5visainvestors.com/2025/08/31/investment-green-card-vs-h1b-l1/) – Compare EB-5, H-1B, and L-1 visa options in terms of benefits, costs, and eligibility.
 - [Understanding ‘National Interest’ in the EB-5 Program](https://blog.eb5visainvestors.com/2025/09/01/national-interest-eb5-meaning/) – Defines how “national interest” is interpreted in EB-5 adjudications.
